@@ -6,6 +6,10 @@ export default {
 
 <template>
 
+<header>
+  
+</header>
+
 </template>
 
 <style lang="scss" scoped>

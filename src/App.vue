@@ -22,7 +22,9 @@ export default {
 </script>
 
 <template>
-
+  <BaseHeader/>
+  <BaseMain/>
+  <BaseFooter/>
 </template>
 
 <style lang="scss" scoped>
